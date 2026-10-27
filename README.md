@@ -1,6 +1,6 @@
 # ylf-proto-play
 
-Web builds of combat prototypes (Godot 4.7.2). The player character's sprites and skill cut-in were drawn with an AI image tool; the enemy and stage are still grey-box shapes.
+Web builds of combat prototypes (Godot 4.7.2). The player character, the three regular enemies and the skill cut-in were drawn with an AI image tool; the boss and stage are still grey-box shapes.
 
 - proto01: https://midagedev.github.io/ylf-proto-play/
 
