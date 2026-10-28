@@ -2,7 +2,8 @@
 
 Web builds of combat prototypes (Godot 4.7.2) for 「야간 유실물센터」.
 
-- proto01 (v14, story demo): https://midagedev.github.io/ylf-proto-play/?v=14
+- proto01 (v15, story demo): https://midagedev.github.io/ylf-proto-play/?v=15
+  - v15: skill effects redone in a concise, flat graphic style (inspired by Studio Trigger / Guilty Gear): angular flat shapes in black / off-white / amber + one accent, stepped 12–15 fps motion, 1–3 frame impact frames, short cut-ins; press V to cycle v1 / v14 / v15
   - v14: 담's skill 「세 번 두드림」 (three knocks) with new effects (freeze-frame cut-in, keyhole door, shockwave, particles, hit-stop/camera punch, vibration on phones); finishers 담 「아퀴」 (끝매듭) and 하람 「옭매듭」 when the 사연 gauge is ~full; press V to compare with the old effects
   - title → prologue dialogue → 유실물센터 (case note) → 3 waves → boss 016 → return scene → result → 괴이 도감
   - v10: retry from the boss, saved progress ("이어서" on the title)
