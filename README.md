@@ -2,7 +2,8 @@
 
 Web builds of combat prototypes (Godot 4.7.2) for 「야간 유실물센터」.
 
-- proto01 (v17, story demo): https://midagedev.github.io/ylf-proto-play/?v=17
+- proto01 (v18, story demo): https://midagedev.github.io/ylf-proto-play/?v=18
+  - v18: basic 4-hit combos for 담 and 하람 redrawn as new 4-pose keyframes per hit (anticipation, held contact, follow-through, recovery) with hand-painted brush-stroke swing trails instead of code-drawn lines; press N to compare with the old attacks
   - v17: same painted FX, but restrained and slower so the action reads: one small effect per beat, one held impact illustration per skill (5 frames, no inverted flash), a smaller door opening at 8 fps; press B for 0.5x slow motion; V cycles v17 / v16 / v15 / v14 / v1
   - v16: skill effects are now hand-painted-looking FX sheets (sumi ink slashes and splashes, amber brush strokes, a wooden locker door with an iron keyhole, pink thread knot, charcoal rope), played as stepped animation; impact frames are painted key art; press V to cycle v16 / v15 / v14 / v1
   - v15: skill effects redone in a concise, flat graphic style (inspired by Studio Trigger / Guilty Gear): angular flat shapes in black / off-white / amber + one accent, stepped 12–15 fps motion, 1–3 frame impact frames, short cut-ins; press V to cycle v1 / v14 / v15
